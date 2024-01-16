@@ -1,0 +1,5 @@
+com\apress\springbootrecipes\library\LibraryApplication.class
+com\apress\springbootrecipes\library\InMemoryBookService.class
+com\apress\springbootrecipes\library\Book.class
+com\apress\springbootrecipes\library\BookService.class
+com\apress\springbootrecipes\library\web\BookController.class

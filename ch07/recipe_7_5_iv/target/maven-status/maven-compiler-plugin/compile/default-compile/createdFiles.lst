@@ -1,0 +1,5 @@
+com\apress\springboot2recipes\mongo\Customer.class
+com\apress\springboot2recipes\mongo\CustomerRepository.class
+com\apress\springboot2recipes\mongo\DataInitializer.class
+com\apress\springboot2recipes\mongo\CustomerLister.class
+com\apress\springboot2recipes\mongo\ReactiveMongoApplication.class
